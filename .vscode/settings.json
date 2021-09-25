@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "rasqal.h": "c",
+        "redland.h": "c",
+        "raptor2.h": "c",
+        "librdf.h": "c",
+        "stdio.h": "c"
+    }
+}
